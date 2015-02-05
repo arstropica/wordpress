@@ -1,0 +1,21 @@
+[submodule "plugins/at_preview_plugin"]
+	path = plugins/at_preview_plugin
+	url = https://github.com/arstropica/at_preview_plugin
+[submodule "themes/ambiance"]
+	path = themes/ambiance
+	url = https://github.com/arstropica/ambiance
+[submodule "themes/arstropica"]
+	path = themes/arstropica
+	url = https://github.com/arstropica/arstropica
+[submodule "themes/atmos"]
+	path = themes/atmos
+	url = https://github.com/arstropica/atmos
+[submodule "themes/caption"]
+	path = themes/caption
+	url = https://github.com/arstropica/caption
+[submodule "themes/freelance"]
+	path = themes/freelance
+	url = https://github.com/arstropica/freelance
+[submodule "themes/teeline"]
+	path = themes/teeline
+	url = https://github.com/arstropica/teeline
