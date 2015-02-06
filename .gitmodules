@@ -55,3 +55,6 @@
 [submodule "plugins/wp_custom_plugin_manager"]
 	path = plugins/wp_custom_plugin_manager
 	url = https://github.com/arstropica/wp_custom_plugin_manager
+[submodule "plugins/at_piwik"]
+	path = plugins/at_piwik
+	url = https://github.com/arstropica/at_piwik
