@@ -19,3 +19,6 @@
 [submodule "themes/teeline"]
 	path = themes/teeline
 	url = https://github.com/arstropica/teeline
+[submodule "plugins/social-media-icons"]
+	path = plugins/social-media-icons
+	url = https://github.com/arstropica/social-media-icons
