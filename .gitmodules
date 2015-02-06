@@ -22,3 +22,36 @@
 [submodule "plugins/social-media-icons"]
 	path = plugins/social-media-icons
 	url = https://github.com/arstropica/social-media-icons
+[submodule "scripts/export_plugin_list"]
+	path = scripts/export_plugin_list
+	url = https://github.com/arstropica/export_plugin_list
+[submodule "plugins/wpmu_dm_unmap"]
+	path = plugins/wpmu_dm_unmap
+	url = https://github.com/arstropica/wpmu_dm_unmap
+[submodule "plugins/wp_rss_syndication"]
+	path = plugins/wp_rss_syndication
+	url = https://github.com/arstropica/wp_rss_syndication
+[submodule "plugins/pinterest-pin-it-button-addon"]
+	path = plugins/pinterest-pin-it-button-addon
+	url = https://github.com/arstropica/pinterest-pin-it-button-addon
+[submodule "plugins/network-blog-listing"]
+	path = plugins/network-blog-listing
+	url = https://github.com/arstropica/network-blog-listing
+[submodule "plugins/ms-posts-syndication"]
+	path = plugins/ms-posts-syndication
+	url = https://github.com/arstropica/ms-posts-syndication
+[submodule "plugins/ga-outbound-tracking"]
+	path = plugins/ga-outbound-tracking
+	url = https://github.com/arstropica/ga-outbound-tracking
+[submodule "plugins/disable_admin"]
+	path = plugins/disable_admin
+	url = https://github.com/arstropica/disable_admin
+[submodule "plugins/domain_mapping_addon"]
+	path = plugins/domain_mapping_addon
+	url = https://github.com/arstropica/domain_mapping_addon
+[submodule "plugins/custom-theme-styling"]
+	path = plugins/custom-theme-styling
+	url = https://github.com/arstropica/custom-theme-styling
+[submodule "plugins/wp_custom_plugin_manager"]
+	path = plugins/wp_custom_plugin_manager
+	url = https://github.com/arstropica/wp_custom_plugin_manager
