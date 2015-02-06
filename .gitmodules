@@ -58,3 +58,6 @@
 [submodule "plugins/at_piwik"]
 	path = plugins/at_piwik
 	url = https://github.com/arstropica/at_piwik
+[submodule "scripts/wp_xmlrpc_client"]
+	path = scripts/wp_xmlrpc_client
+	url = https://github.com/arstropica/wp_xmlrpc_client
