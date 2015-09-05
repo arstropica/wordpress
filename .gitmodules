@@ -61,3 +61,6 @@
 [submodule "scripts/wp_xmlrpc_client"]
 	path = scripts/wp_xmlrpc_client
 	url = https://github.com/arstropica/wp_xmlrpc_client
+[submodule "plugins/gforms_tmp"]
+	path = plugins/gforms_tmp
+	url = https://github.com/arstropica/gforms_tmp
